@@ -1,0 +1,6 @@
+python-telegram-bot==20.7
+python-dotenv==1.0.1
+requests==2.31.0
+langchain==0.1.17
+lancedb==0.4.12
+pyarrow==15.0.2
